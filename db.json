@@ -1,1 +1,6 @@
-{"id":1,"project":"NEO1","status":"Green","type":"Embedded"}
+{
+  "id":1,
+  "project":"NEO1",
+  "status":"Green",
+  "type":"Embedded"
+}
