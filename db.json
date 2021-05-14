@@ -1,12 +1,6 @@
 {
-  "posts": [
-    {
       "id": 1,
       "projekt": "neopixel",
       "status": "Green"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
+
