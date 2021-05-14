@@ -1,9 +1,8 @@
 {
   "posts": [
     {
-      "id": [1,2],
-      "projekt": ["neopixel","neopixel2"],
-      "status": ["Green","Red"]
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
