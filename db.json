@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": [1,2]
+      "id": [1,2],
       "projekt": ["neopixel","neopixel2"],
       "status": ["Green","Red"]
     }
