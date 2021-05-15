@@ -1,4 +1,5 @@
 {
 	"ID": [1, 2],
-	"Namn": ["NEO1", "NEO2"]
+	"Namn": ["NEO1", "NEO2"],
+	"Status":["PASS","FAIL"]
 }
